@@ -18,5 +18,8 @@ Skills: PHP / Laravel / Codeignitor / MySQL / PostgreSQL
 
 ![GitHub metrics](https://metrics.lecoq.io/faisalhasanbd)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=faisalhasanbd)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=faisalhasanbd) 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalhasanbd&label=Profile%20views&color=0e75b6&style=flat" alt="faisalhasanbd" /> </p>
+
 
