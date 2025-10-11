@@ -3,8 +3,7 @@
 ### I am passionate about building scalable, clean, and secure web applications with modern technologies. Always learning and building something new.
 
 Skills: PHP / Laravel / Codeignitor / MySQL / PostgreSQL
-
-- 🔭 I’m currently working on this page. 
+ 
 - 📫 How to reach me: Email: faisal.wpsi@gmail.com 
 
 
